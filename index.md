@@ -14,13 +14,15 @@
     > ⠀ 　 
 
 - ## Contact 
-    ### 📧 lunaspdlqj0913@naver.com  
-    ### 🌐 [@ssooh_13](https://www.instagram.com/ssoo_h13/)
+    - ### 📧 lunaspdlqj0913@naver.com  
+    - ### 🌐 [@ssooh_13](https://www.instagram.com/ssoo_h13/)
+
+
 <br>
 <br>
 
 - ## Github address
-    ### 🔗 [https://github.com/SuhyeonCho13](https://github.com/SuhyeonCho13)
+    - ### 🔗 [https://github.com/SuhyeonCho13](https://github.com/SuhyeonCho13)
 <br>
 <br>
 
@@ -31,7 +33,7 @@
 <br>
 
 - ## qualifications
-    - ADsP 1급
+    - ADsP
     - Google UX Design Certificate
     - 컴퓨터활용능력 1급
     - JLPT N1
