@@ -41,31 +41,21 @@
 <br>
 
 - ## Ability
-- **🖱️Design :**  
+    * **🖱️Design :**  
 
-        |Tool|Figma|After Effects|Premiere|Illustrator|Photoshop|
+      **Figma , After Effects , Premiere , Illustrator , Photoshop**
 
-        |:---:|:----:|:-------------:|:-------:|:---------:|:--------:|
-
-        |Skill level| ◎ | ○ | △| ◎ | ○ |
 
     * **🖥️Programming :** 
 
-        |Tool|Python|Java|JavaScript|C#|CSS|HTML|
-
-        |:----:|:---:|:---:|:----:|:----:|:---:|:---:|
-
-        |Skill level|◎|◎|◎|○|◎|◎|
+        **Python , Java , JavaScript , C# , CSS , HTML**
 
     
 
     * **🌏Language :** 
 
-        |Tool|Korean|Japanese| English|Spanish|
+        **Korean , Japanese , English , Spanish**
 
-        |:---:|:---:|:---:|:---:|:---:|
-
-        |Skill level|◎|◎|◎|△|
       
 <br>
 <br>
